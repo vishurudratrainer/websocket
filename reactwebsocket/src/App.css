@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+  display: flex;
+  text-align: center;
+}
+.app__home {
+  width: 100%;
+  padding: 16px;
+}
+
+.content__table {
+}
+.content__chart {
+  height: 100vh;
+}
